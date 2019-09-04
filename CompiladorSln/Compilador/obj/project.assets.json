@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alu201617770\\Desktop\\Compilador\\Compilador\\Compilador.csproj",
+      "projectUniqueName": "C:\\Users\\alu201617770\\Desktop\\compilador\\CompiladorSln\\Compilador\\Compilador.csproj",
       "projectName": "Compilador",
-      "projectPath": "C:\\Users\\alu201617770\\Desktop\\Compilador\\Compilador\\Compilador.csproj",
+      "projectPath": "C:\\Users\\alu201617770\\Desktop\\compilador\\CompiladorSln\\Compilador\\Compilador.csproj",
       "packagesPath": "C:\\Users\\alu201617770\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alu201617770\\Desktop\\Compilador\\Compilador\\obj\\",
+      "outputPath": "C:\\Users\\alu201617770\\Desktop\\compilador\\CompiladorSln\\Compilador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
