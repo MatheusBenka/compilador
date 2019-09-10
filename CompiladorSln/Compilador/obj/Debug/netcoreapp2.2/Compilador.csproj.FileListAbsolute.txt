@@ -20,3 +20,14 @@ C:\Users\alu201617770\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netc
 C:\Users\alu201617770\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.AssemblyInfo.cs
 C:\Users\alu201617770\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.dll
 C:\Users\alu201617770\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.pdb
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\bin\Debug\netcoreapp2.2\Compilador.deps.json
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\bin\Debug\netcoreapp2.2\Compilador.runtimeconfig.json
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\bin\Debug\netcoreapp2.2\Compilador.runtimeconfig.dev.json
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\bin\Debug\netcoreapp2.2\Compilador.dll
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\bin\Debug\netcoreapp2.2\Compilador.pdb
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.AssemblyInfoInputs.cache
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.AssemblyInfo.cs
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.dll
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.pdb
+C:\Users\D1NS\Desktop\compilador\CompiladorSln\Compilador\obj\Debug\netcoreapp2.2\Compilador.csprojAssemblyReference.cache

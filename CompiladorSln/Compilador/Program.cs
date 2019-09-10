@@ -8,9 +8,9 @@ namespace Compilador
     class Program
     {
         static void Main(string[] args)
-        {
-            FileReader fr = new FileReader();
-            string fPath = Path.Combine(@"C:\Users\alu201617770\Desktop", "program.lpd");            
+        {            
+            string pathArquivo = string.Empty;
+            string fPath = Path.Combine(pathArquivo, "program.lpd");            
 
             if (!string.IsNullOrEmpty(fPath))
             {
